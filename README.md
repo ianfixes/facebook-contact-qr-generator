@@ -5,4 +5,4 @@ It works by reading information off your friends' "About" page, -- assembling th
 
 ![Example output](https://raw.githubusercontent.com/ifreecarve/facebook-contact-qr-generator/master/doc/facebook-contact-qr-generator-example.jpg)
 
-To my knowledge, this is not in violation of any terms of service.
+To my knowledge, this is not in violation of any terms of service; [the best option that I could find](http://techcrunch.com/2010/11/26/the-address-book-wars-continue-facebook-contact-scraping-chrome-extension-taken-down/) had suffered this fate earlier.
